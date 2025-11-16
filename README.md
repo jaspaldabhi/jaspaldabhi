@@ -1,4 +1,4 @@
-## Hey 👋, I'm Jaspal - 4 years of Experienced Software Engineer!  
+## Hey, I'm Jaspal - 4 years of Experienced Software Engineer!  
 
 An inspiring dev who love problem solving, coding and design.
 
@@ -24,27 +24,27 @@ An inspiring dev who love problem solving, coding and design.
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.0%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> ? Used in GitHub's Storage 
  > 
-> 🏆 62 Contributions in the Year 2025
+> 62 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
+> Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 14 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm an Early** 
 
 ```text
-🌞 Morning                690 commits        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-🌆 Daytime                1024 commits       █████████░░░░░░░░░░░░░░░░   35.93 % 
-🌃 Evening                1749 commits       █████████░░░░░░░░░░░░░░░░   36.02 % 
-🌙 Night                  280 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Morning                690 commits        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Daytime                1024 commits       █████████░░░░░░░░░░░░░░░░   35.93 % 
+Evening                1749 commits       █████████░░░░░░░░░░░░░░░░   36.02 % 
+Night                  280 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 ```
-📅 **I'm Most Productive on Friday** 
+**I'm Most Productive on Friday** 
 
 ```text
 Monday                   441 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
@@ -57,18 +57,18 @@ Sunday                   279 commits        ██░░░░░░░░░░
 ```
 
 
-📊 **This Week I Spent My Time On** 
+**This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/New_York
+Time Zone: America/New_York
 
-💬 Programming Languages: 
+Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors: 
+Editors: 
 No Activity Tracked This Week
 
-💻 Operating System: 
+Operating System: 
 No Activity Tracked This Week
 ```
 
