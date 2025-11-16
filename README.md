@@ -1,4 +1,4 @@
-## Hey 👋, I'm Machinian - Ukrainian Software Engineer!  
+## Hey 👋, I'm Jaspal - 4 years of Experienced Software Engineer!  
 
 An inspiring dev who love problem solving, coding and design.
 
